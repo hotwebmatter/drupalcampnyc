@@ -185,3 +185,7 @@ $settings['tome_files_directory'] = '../files';
 $settings['tome_content_directory'] = '../content';
 $settings['tome_static_directory'] = '../html';
 $config_directories['sync'] = '../config';
+
+// Google Tag Manager Container Environment "Live".
+$config['google_tag.container.default_container']['environment_id'] = 'env-1';
+$config['google_tag.container.default_container']['environment_token'] = 'KwMHOkAq9Tuv1BoGue_3Og';
