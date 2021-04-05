@@ -1,0 +1,35 @@
+diff --git a/html/index.html b/html/index.html
+index 7bdbac0dd..5b38b1324 100644
+--- a/html/index.html
++++ b/html/index.html
+@@ -228,23 +228,23 @@ <h1 class="visually-hidden">
+     DrupalCampNYC 2020
+ </h1>
+ 				<div class="deck--content deck-hero--content">
+-					
++
+ 				</div>
+ 					</div>
+ 	</section>
+ 
+ </div>
+-            
+-        
+-        
++
++
++
+       <div class="field field--name-field-content field--type-entity-reference-revisions field--label-hidden field__items">
+               <div class="field__item">    <section class="deck deck-one-column deck--type--deck-1-column deck--view-mode--default">
+                                 <div class="deck--content deck-one-column--content">
+                       <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+-          
+-            <div class="text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><div class="button-row-4"><a class="btn btn-lg btn-color-1" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="5ee70d59-c2e1-429e-830e-11db249a4793" href="/program" role="button" title="Program &amp; Schedule">View latest DrupalCampNYC website</a></div>
++
++            <div class="text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><div class="button-row-4"><a class="btn btn-lg btn-color-1" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="5ee70d59-c2e1-429e-830e-11db249a4793" href="https://www.drupalcamp.nyc" role="button" title="Program &amp; Schedule">View latest DrupalCampNYC website</a></div>
+ </div>
+-      
++
+       </div>
+ 
+ 
